@@ -22,7 +22,7 @@
                             <td><strong>Modelo</strong></td><td>  {{ $factura->modelo }}  </td>
                         </tr>
                         <tr>
-                            <td><strong>Precio</strong></td><td>  {{ $factura->year}}  </td>
+                            <td><strong>Año</strong></td><td>  {{ $factura->year}}  </td>
                         </tr>
                         <tr>
                             <td><strong>Precio</strong></td><td>  {{ $factura->precio}}  </td>
